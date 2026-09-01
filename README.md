@@ -19,6 +19,16 @@ Compared to the first version, this release introduces:
 
 The purpose of this project was to practice Python fundamentals while building a small real-world console application.
 
+## Features
+
+- Add Resistors
+- Add Capacitors
+- Add Inductors
+- Display Components
+- Save Data to JSON
+- Load Data from JSON
+- Search Components by Name
+- Input Validation
 
 ## Concepts Practiced
 
@@ -38,3 +48,7 @@ This is Version 2 of the project.
 
 The first version was created as a beginner practice project.
 Version 2 refactors the project using OOP and adds several new features.
+
+## Author
+MohammadMahdi Badri:)
+
